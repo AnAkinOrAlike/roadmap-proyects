@@ -1,3 +1,4 @@
 .vs
-BackEnd/GuessNumber
+BackEnd/GuessNumber/*
+!BackEnd/GuessNumber/GuessNumber.cpp
 CppProperties.json
