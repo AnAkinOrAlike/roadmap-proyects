@@ -8,3 +8,12 @@ https://roadmap.sh/projects/datepicker-ui
 - Second Proyect: Backend Number Guessing Game: 
 https://roadmap.sh/projects/number-guessing-game
 >![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<p align="left">
+  <a href='/FrontEnd/CalendarUI/'>
+    <img width="48%" src="./Assets/calendarUI.png" alt="Calendar UI" />
+  </a>
+   <a href='/BackEnd/GuessNumber/'>
+    <img width="48%" src="./Assets/NG.console.png" alt="Console Number Guessing Game" />
+  </a>
+</p>
