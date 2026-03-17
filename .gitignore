@@ -2,3 +2,5 @@
 BackEnd/GuessNumber/*
 !BackEnd/GuessNumber/GuessNumber.cpp
 CppProperties.json
+*txt
+Python/*/
