@@ -4,3 +4,4 @@ BackEnd/GuessNumber/*
 CppProperties.json
 *txt
 Python/*/
+*.sqlite
